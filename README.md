@@ -10,23 +10,22 @@
 ### ⚪ [تبدیل متن به گفتار](https://murf.ai/)
 ### 🔴 [کشیدن جدول و چارت نمودار](https://app.diagrams.net/)
 ### 🟢 [دانلود رایگان قالب پاورپوینت](https://www.free-power-point-templates.com/)
-### 🟤 تولید کد با هوش مصنوعی ==> [site 1](https://replit.com/) / [site 2](https://codelessai.vercel.app/)
+### 🟤 تولید کد با هوش مصنوعی => [site 1](https://replit.com/) / [site 2](https://codelessai.vercel.app/)
 ### 🟠 [طراحی صفحه وب با هوش مصنوعی](https://uizard.io/)
 ### ⚫ [برنامه نویسی با هوش مصنوعی](https://aicodeconvert.com/)
 ### 🟡 [جان بخشیدن به نقاشی](https://sketch.metademolab.com/)
 ### 🟣 [عکس فرد مورد نظر رو به این سایت بده تمام اکانت هاشو برات میاره](https://facecheck.id/)
 
-<hr></hr>
+<h1 align="center">♨ حافظه ابری رایگان برای ذخیره سازی فایل ♨</h1>
 
-### ♨ حافظه ابری رایگان برای ذخیره سازی فایل ♨
-### 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+### 〰〰〰〰〰〰〰〰
 ### ✔ [mega (20 GB)](https://mega.io/)
 ### ✔ [media fire (10 GB)](https://app.mediafire.com/)
 ### ✔ [pclude (5 GB)](https://www.pcloud.com/)
 ### ✔ [ice drive (10 GB)](https://icedrive.net/)
 ### ✔ [drive (15 GB)](https://www.google.com/drive/)
 ### ✔ [one drive (5 GB)](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
-### 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+### 〰〰〰〰〰〰〰〰
 
 <h1 align="center">🔐 سایت های فیلتر 🔐</h1>
 
@@ -51,11 +50,9 @@
 ### 🍁 [دانلود از یوتیوب](https://t.me/linkgrambot)
 ### 🌿 [ترجمه متون](https://t.me/YTranslateBot)
 
-## 🖋 Authors
-<a href="https://www.github.com/amir-v-z">➡ amir-v-z 😊</a>
-
-<hr></hr>
-
 > *__🌈 If you enjoyed...🔥__*
 
 > *__Don't forget to give stars🌟please😉🙏🏻__*
+
+## 🖋 Authors
+<a href="https://www.github.com/amir-v-z">👨‍💻 amir-v-z</a>
