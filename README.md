@@ -18,7 +18,7 @@
 
 <hr></hr>
 
-### ☁ حافظه ابری رایگان برای ذخیره سازی فایل ☁
+### ♨ حافظه ابری رایگان برای ذخیره سازی فایل ♨
 ### 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 ### ✔ [mega (20 GB)](https://mega.io/)
 ### ✔ [media fire (10 GB)](https://app.mediafire.com/)
@@ -51,4 +51,11 @@
 ### 🍁 [دانلود از یوتیوب](https://t.me/linkgrambot)
 ### 🌿 [ترجمه متون](https://t.me/YTranslateBot)
 
-🔴🟢🟤🟠⚫🟡🟣⚪🔻🔺🌱🌲🌵🌴🍂🍃🍁☘🌿♨🚀
+## 🖋 Authors
+<a href="https://www.github.com/amir-v-z">➡ amir-v-z 😊</a>
+
+<hr></hr>
+
+> *__🌈 If you enjoyed...🔥__*
+
+> *__Don't forget to give stars🌟please😉🙏🏻__*
