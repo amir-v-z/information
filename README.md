@@ -23,7 +23,6 @@
 ### 🔴 [ویرایش عکس](https://www.fotor.com/)
 
 <h1 align="center">
-<img src="" width=50>
 سایت های فیلتر
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdsc3BhNGg0d2c5Y3ZkeXd0MG1vNXprODJ6enZ0c2N4ejExNGZkdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IzLOkxWYZJQacKuUFn/giphy.gif" width=30>
 </h1>
