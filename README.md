@@ -90,6 +90,24 @@
 ### 🍁 ذخیره سازی فایل ها => [بات 1](https://t.me/fileinbot) / [بات 2](https://t.me/filesboxbot)
 ### 🌿 [ساخت پلی لیست و اشتراک گذاشتن](https://t.me/imixbot)
 
+<h1 align="center">
+<img src="https://media.giphy.com/media/bkTNz8VzVvKrtgVjXf/giphy.gif?cid=790b7611pya2gfirktrwp0onao0ng9k0xarvs2pgsfnbbd5q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> افزونه های کروم <img src="https://media.giphy.com/media/WDgW5x0ru6Qxv12Tfp/giphy.gif?cid=790b7611v9d7qugbbe68pboyq6g0a5ob5td92kw3anjm4erd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="90">
+</h1>
+
+### 🌐 نظم دهنده صفحه اصلی کروم => [دستیار](https://chrome.google.com/webstore/detail/dastyar-1-personal-assist/ebilacdhmebcihmbjgibcbeaihbecapj) / [Focus by MDS](https://chromewebstore.google.com/detail/focus-by-mds/hgledomnjnainmhjejcepomfflgficml)
+### 🌐 [ضبط از صفحه مرورگر (Loom)](https://chrome.google.com/webstore/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=fa)
+### 🌐 تبلیغات سایت ها رو بلاک میکنه => [افزونه 1](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=fa) / [افزونه 2](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
+### 🌐 [ترجمه گوگل](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb/related?hl=fa)
+### 🌐 [لیست ToDo](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=fa)
+### 🌐 [اسکرین شات از تمام صفحه وب (خروجی pdf هم میده)](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl/related?hl=fa)
+### 🌐 [کد رنگ هر جای صفحه رو بخوای بهت میده](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp/related)
+### 🌐 [فیلتر شکن (Free vpn)](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno)
+### 🌐 [هر عکسی در صفحه وب باشه برای دانلود بهت تحویل میده](https://chrome.google.com/webstore/detail/image-downloader-save-pic/daeljdgmllhgmbdkpgnaojldjkdgkbjg/related)
+### 🌐 [ردیاب های مخفی رو مسدود میکنه (پرایوسی بجر)](https://chromewebstore.google.com/detail/%D9%BE%D8%B1%D8%A7%DB%8C%D9%88%D8%B3%DB%8C-%D8%A8%D8%AC%D8%B1/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=fa&utm_source=ext_sidebar)
+### 🌐 [تبلیغات یوتیوب قبل اجرای فیلم اصلی رو مسدود میکنه](https://chromewebstore.google.com/detail/%D9%85%D8%B3%D8%AF%D9%88%D8%AF-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C/cmedhionkhpnakcndndgjdbohmhepckk?hl=fa&utm_source=ext_sidebar)
+### 🌐 [فناوری های مورد استفاده در هر وب سایتی که در حال بازدید از آن هستید رو بهتون میگه](https://chromewebstore.google.com/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=fa&utm_source=ext_sidebar)
+### 🌐 [روی نماد OneTab کلیک کنید تا همه برگه های باز شده در مرورگر خود را به یک لیست تبدیل کند](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+
 <h1 align="left">
 <a href="#1"><img src="https://media.giphy.com/media/JiamvXQPshKEU2mtZq/giphy.gif?cid=ecf05e474n4rn2se9fb3gsih5io9it006syvotnav001t3kv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=50></a>
 </h1>
